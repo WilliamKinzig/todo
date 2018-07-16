@@ -24,11 +24,10 @@ namespace ToDoList.Controllers
           model.Add("category", category);
           return View(item);
         }
-        
+
         [HttpPost("/items/delete")]
         public ActionResult DeleteAll()
         {
-            Item.ClearAll();
             return View();
         }
 

@@ -19,8 +19,3 @@ namespace ToDoList
         }
     }
 }
-
-// from anywhere in our application to communicate with your database!
-
-
-// call DB.Connection() 
