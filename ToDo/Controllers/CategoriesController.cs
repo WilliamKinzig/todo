@@ -26,6 +26,7 @@ namespace ToDoList.Controllers
         {
             Category newCategory = new Category(Request.Form["category-name"]);
             List<Category> allCategories = Category.GetAll();
+            //allCategories.Add(newCategory);
             return View("Index", allCategories);
         }
 
@@ -39,7 +40,6 @@ namespace ToDoList.Controllers
             model.Add("items", categoryItems);
             return View(model);
         }
-
 
         [HttpPost("/items")]
         public ActionResult CreateItem()
