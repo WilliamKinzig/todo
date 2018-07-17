@@ -44,14 +44,14 @@ namespace ToDoList.Controllers
         {
             return View();
         }
-        [HttpPost("/items")]
-        public ActionResult Create()
-        {
-          Item newItem = new Item (Request.Form["new-item"]);
-          newItem.Save();
-          List<Item> allItems = Item.GetAll();
-          return RedirectToAction("Index");
-        }
+        // [HttpPost("/items")]
+        // public ActionResult Create()
+        // {
+        //   Item newItem = new Item (Request.Form["new-item"]);
+        //   newItem.Save();
+        //   List<Item> allItems = Item.GetAll();
+        //   return RedirectToAction("Index");
+        // }
 
         [HttpGet("/items/{id}")]
         public ActionResult Details(int id)
