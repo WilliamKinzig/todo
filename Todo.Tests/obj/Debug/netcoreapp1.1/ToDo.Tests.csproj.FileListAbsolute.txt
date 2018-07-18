@@ -24,17 +24,17 @@
 /Users/Guest/Desktop/todo/ToDo.Tests/obj/Debug/netcoreapp1.1/ToDo.Tests.AssemblyInfo.cs
 /Users/Guest/Desktop/todo/ToDo.Tests/obj/Debug/netcoreapp1.1/ToDo.Tests.dll
 /Users/Guest/Desktop/todo/ToDo.Tests/obj/Debug/netcoreapp1.1/ToDo.Tests.pdb
-C:\Users\William Kinzig\desktop\todo\todo.tests\bin\Debug\netcoreapp1.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
-C:\Users\William Kinzig\desktop\todo\todo.tests\bin\Debug\netcoreapp1.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
-C:\Users\William Kinzig\desktop\todo\todo.tests\bin\Debug\netcoreapp1.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
-C:\Users\William Kinzig\desktop\todo\todo.tests\bin\Debug\netcoreapp1.1\ToDo.Tests.deps.json
-C:\Users\William Kinzig\desktop\todo\todo.tests\bin\Debug\netcoreapp1.1\ToDo.Tests.runtimeconfig.json
-C:\Users\William Kinzig\desktop\todo\todo.tests\bin\Debug\netcoreapp1.1\ToDo.Tests.runtimeconfig.dev.json
-C:\Users\William Kinzig\desktop\todo\todo.tests\bin\Debug\netcoreapp1.1\ToDo.Tests.dll
-C:\Users\William Kinzig\desktop\todo\todo.tests\bin\Debug\netcoreapp1.1\ToDo.Tests.pdb
-C:\Users\William Kinzig\desktop\todo\todo.tests\bin\Debug\netcoreapp1.1\ToDo.dll
-C:\Users\William Kinzig\desktop\todo\todo.tests\bin\Debug\netcoreapp1.1\ToDo.pdb
-C:\Users\William Kinzig\desktop\todo\todo.tests\obj\Debug\netcoreapp1.1\ToDo.Tests.csproj.CoreCompileInputs.cache
-C:\Users\William Kinzig\desktop\todo\todo.tests\obj\Debug\netcoreapp1.1\ToDo.Tests.AssemblyInfo.cs
-C:\Users\William Kinzig\desktop\todo\todo.tests\obj\Debug\netcoreapp1.1\ToDo.Tests.dll
-C:\Users\William Kinzig\desktop\todo\todo.tests\obj\Debug\netcoreapp1.1\ToDo.Tests.pdb
+C:/Users/William Kinzig/desktop/todo/todo.tests/bin/Debug/netcoreapp1.1/Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:/Users/William Kinzig/desktop/todo/todo.tests/bin/Debug/netcoreapp1.1/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:/Users/William Kinzig/desktop/todo/todo.tests/bin/Debug/netcoreapp1.1/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:/Users/William Kinzig/desktop/todo/todo.tests/bin/Debug/netcoreapp1.1/ToDo.Tests.deps.json
+C:/Users/William Kinzig/desktop/todo/todo.tests/bin/Debug/netcoreapp1.1/ToDo.Tests.runtimeconfig.json
+C:/Users/William Kinzig/desktop/todo/todo.tests/bin/Debug/netcoreapp1.1/ToDo.Tests.runtimeconfig.dev.json
+C:/Users/William Kinzig/desktop/todo/todo.tests/bin/Debug/netcoreapp1.1/ToDo.Tests.dll
+C:/Users/William Kinzig/desktop/todo/todo.tests/bin/Debug/netcoreapp1.1/ToDo.Tests.pdb
+C:/Users/William Kinzig/desktop/todo/todo.tests/bin/Debug/netcoreapp1.1/ToDo.dll
+C:/Users/William Kinzig/desktop/todo/todo.tests/bin/Debug/netcoreapp1.1/ToDo.pdb
+C:/Users/William Kinzig/desktop/todo/todo.tests/obj/Debug/netcoreapp1.1/ToDo.Tests.csproj.CoreCompileInputs.cache
+C:/Users/William Kinzig/desktop/todo/todo.tests/obj/Debug/netcoreapp1.1/ToDo.Tests.AssemblyInfo.cs
+C:/Users/William Kinzig/desktop/todo/todo.tests/obj/Debug/netcoreapp1.1/ToDo.Tests.dll
+C:/Users/William Kinzig/desktop/todo/todo.tests/obj/Debug/netcoreapp1.1/ToDo.Tests.pdb

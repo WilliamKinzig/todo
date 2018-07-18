@@ -26,7 +26,7 @@ namespace ToDoList.Controllers
         {
             Category newCategory = new Category(Request.Form["category-name"]);
             List<Category> allCategories = Category.GetAll();
-            //allCategories.Add(newCategory);
+            allCategories.Add(newCategory);
             return View("Index", allCategories);
         }
 

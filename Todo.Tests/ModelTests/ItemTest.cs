@@ -11,6 +11,7 @@ namespace ToDoList.Tests
     {
         public void Dispose()
         {
+            Category.DeleteAll();
             Item.DeleteAll();
         }
         public ItemTests()
